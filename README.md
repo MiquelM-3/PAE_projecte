@@ -1,1 +1,1 @@
-Detailed report on the PROJECTE.pdf file
+Detailed report on the PROJECTE.pdf file (which also includes the code for the RTOS project)
